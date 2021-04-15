@@ -66,6 +66,7 @@
     <Compile Include="Infrastructure\BasePropertyNotify.cs" />
     <Compile Include="Infrastructure\Command.cs" />
     <Compile Include="Model\Student.cs" />
+    <Compile Include="Model\StudentService.cs" />
     <Compile Include="View\MainView.xaml.cs">
       <DependentUpon>MainView.xaml</DependentUpon>
       <SubType>Code</SubType>
