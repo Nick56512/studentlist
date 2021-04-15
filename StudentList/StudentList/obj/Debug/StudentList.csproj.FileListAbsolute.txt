@@ -1,0 +1,15 @@
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\bin\Debug\StudentList.exe.config
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\bin\Debug\StudentList.exe
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\bin\Debug\StudentList.pdb
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\StudentList.csprojAssemblyReference.cache
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\View\MainView.g.cs
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\App.g.cs
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\StudentList_MarkupCompile.cache
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\StudentList_MarkupCompile.lref
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\View\MainView.baml
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\StudentList.g.resources
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\StudentList.Properties.Resources.resources
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\StudentList.csproj.GenerateResource.cache
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\StudentList.csproj.CoreCompileInputs.cache
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\StudentList.exe
+C:\Users\vanec\Desktop\studentlist\StudentList\StudentList\obj\Debug\StudentList.pdb

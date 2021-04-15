@@ -65,6 +65,7 @@
     </Compile>
     <Compile Include="Infrastructure\BasePropertyNotify.cs" />
     <Compile Include="Infrastructure\Command.cs" />
+    <Compile Include="Model\Student.cs" />
     <Compile Include="View\MainView.xaml.cs">
       <DependentUpon>MainView.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -97,7 +98,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Model\" />
     <Folder Include="ViewModel\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
